@@ -1,7 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
-# minigame-1
-## Devlog
-Write your Devlog here.
-## Open-Source Assets
-- Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
-- Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
+# Minigame 1
+Creating a game in Unity is like trying to create a novel with pen and paper. Your scenes in Unity are like the physical components you need to make a book. You have your cover, the paper that goes in the book, your writing utensil, everything that is physically necessary for book creation. GameObjects are the chapter titles and cover of your book. By themselves, they do not mean anything; they only serve to organize. Components (or in this extended metaphor's paramaters, words) are what give meaning to the titles, what the physical pieces of the book are meant to be used for. Components on their own are just loose leaves of paper, words that say something without having any meaning. They must be united under GameObjects, held together within a scene, to gain coherence.
